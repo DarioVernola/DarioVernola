@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarioVernola
-- 👀 I’m interested in IoT and ambient intelligence!
+- 👀 I’m interested in IoT, ambient intelligence, machine and deep learning!
 - 🌱 I’m currently studying Computer Science engineering @Polimi
 - 📫 How to reach me: dario.vernola8@gmail.com 
 
